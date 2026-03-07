@@ -1,12 +1,12 @@
 🕘️更新时间,#genre#
-2026-03-05 18:42:40,http://74.91.26.218:82/live/cctv4hd.m3u8$订阅源
+2026-03-07 18:28:06,http://74.91.26.218:82/live/cctv4hd.m3u8$订阅源
 
 📺央视频道,#genre#
 CCTV-4,http://74.91.26.218:82/live/cctv4hd.m3u8$订阅源
 CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8$订阅源
 CCTV-5+,http://74.91.26.218:82/live/cctv5p.m3u8$订阅源
 CCTV-7,https://ldocctvwbcdtxy.liveplay.myqcloud.com/ldocctvwbcd/cdrmldcctv7_1_td.m3u8$订阅源
-CCTV-14,http://69.30.246.194/live/cctv14.m3u8$订阅源
+CCTV-9,http://74.91.26.218:82/live/cctv9hd.m3u8$订阅源
 CCTV-15,http://69.30.246.194/live/cctv15.m3u8$订阅源
 CCTV-16,http://69.30.246.194/live/cctv16.m3u8$订阅源
 
@@ -37,16 +37,17 @@ CCTV-16,http://69.30.246.194/live/cctv16.m3u8$订阅源
 江苏卫视,http://69.30.246.194/live/jsws.m3u8$订阅源
 江西卫视,http://satellitepull.cnr.cn/live/wx32jiangxws/playlist.m3u8$订阅源
 内蒙古卫视,http://satellitepull.cnr.cn/live/wx32nmgws/playlist.m3u8$订阅源
-青海卫视,http://38.75.136.137:98/gslb/dsdqpub/qhws.m3u8?auth=testpub$订阅源
 青海卫视,http://satellitepull.cnr.cn/live/wx32qhws/playlist.m3u8$订阅源
+青海卫视,http://38.75.136.137:98/gslb/dsdqpub/qhws.m3u8?auth=testpub$订阅源
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8$订阅源
-山西卫视,http://38.75.136.137:98/gslb/dsdqpub/sxwshd.m3u8?auth=testpub$订阅源
 山西卫视,http://satellitepull.cnr.cn/live/wxssxws/playlist.m3u8$订阅源
+山西卫视,http://38.75.136.137:98/gslb/dsdqpub/sxwshd.m3u8?auth=testpub$订阅源
 陕西卫视,http://satellitepull.cnr.cn/live/wxsxxws/playlist.m3u8$订阅源
+陕西卫视,http://38.75.136.137:98/gslb/dsdqpub/snwshd.m3u8?auth=testpub$订阅源
 四川卫视,http://satellitepull.cnr.cn/live/wxscws/playlist.m3u8$订阅源
 三沙卫视,http://38.75.136.137:98/gslb/dsdqpub/ssws.m3u8?auth=testpub$订阅源
 天津卫视,http://38.75.136.137:98/gslb/dsdqca/tjwshd.m3u8?auth=test20251009$订阅源
 西藏卫视,http://satellitepull.cnr.cn/live/wxxzws/playlist.m3u8$订阅源
-新疆卫视,http://38.75.136.137:98/gslb/dsdqpub/xjws.m3u8?auth=testpub$订阅源
 新疆卫视,http://satellitepull.cnr.cn/live/wxxjws/playlist.m3u8$订阅源
+新疆卫视,http://38.75.136.137:98/gslb/dsdqpub/xjws.m3u8?auth=testpub$订阅源
 云南卫视,https://hwapi.yntv.net/ew265l/z1z6s5.m3u8$订阅源
